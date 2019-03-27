@@ -15,4 +15,4 @@
 
 
 ##软件截图：  
-![] (https://i.loli.net/2019/03/27/5c9b32fc091f8.jpg)
+!(https://i.loli.net/2019/03/27/5c9b32fc091f8.jpg)
